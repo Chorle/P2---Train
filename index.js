@@ -43,6 +43,7 @@ function saveNewEntry() {
     /* console.log(count); */
 }
 
+console.log('XD');
 
 /*--------------------------------------
 let countEl = 0;
